@@ -33,7 +33,7 @@ This project requires users to have Node, Inquirer and Fs installed on the workb
 Congrats! You have an interactive app to generate team profiles. Due to the lack of a front-end, the video below will show how the HTML page will be dynamically generated.
 
 ## Usage <a name='usage'></a>
-Dynamically generated HTML Website: https://drive.google.com/file/d/1aCtz2NMyc9oiqoOhpmmWI6F0NlYUvMiB/view?usp=sharing
+Dynamically generated HTML Website: https://drive.google.com/file/d/12gDG5Bb2bXdnMG9zH4uL_tAAWETcOA6d/view?usp=sharing
 
 This product can be used as to generate, track, and visualize the employee pool of any business. Furthermore, it is a template for setting up a fully-functional app to add employees to an existing database. This idea is under development.
 
