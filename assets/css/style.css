@@ -1,0 +1,71 @@
+/* Style body */
+body {
+    font-family:sans-serif;
+}
+/* Style the header*/
+.jumbotron {
+    background-color: paleturquoise;
+    color: black;
+    margin-bottom:2px;
+    border-bottom:black 10px;
+}
+/* Create some space betweeen the "action buttons" */
+
+/* Create space between cards */
+.card {
+    margin-right: 2em;
+    margin-bottom: 5em;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+}
+
+.bottom-card {
+    margin: 5em;
+    padding: 10em;
+}
+
+/* Style the cards */
+.card {
+    background-color: peachpuff;
+    color:white;
+}
+
+.card-header {
+    background-color: navy;
+}
+.card-body{
+    background-color: peachpuff;
+    color: black;
+    font-size: 14px;
+}
+
+.solo-cards-title{
+padding: 0px 20px;
+}
+
+h3 {
+    font-size: 18px;
+    }
+
+/* Give background to main container */
+.container-fluid{
+    background-color: paleturquoise;
+}
+
+/* Give styling to list-group with local storage buttons */
+#button-list {
+    background-color: peachpuff;
+}
+
+.list-group-item {
+    background-color: aliceblue;
+}
+#bottom-card {
+    padding-left: 35px;
+}

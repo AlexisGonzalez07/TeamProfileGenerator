@@ -79,4 +79,3 @@ async function renderChoice()  {
 }
 
 init();
-  
